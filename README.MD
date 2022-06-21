@@ -3,38 +3,37 @@
 --------------------------------------------------------------------------------
 ## GENRAL INFORMATION
 ### RPA Process Name
-==Insert Text Here==
+Example Process
 
 ### RPA BOT Vendor
-
-==Automation Anywhere / Blueprism / UI Path==
+Blueprism
 --------------------------------------------------------------------------------
 ## RPA PROCESS INFORMATION
 ### Systems RPA is Interacting with
-==Insert Text Here==
+Local test services
 
 ### Problem RPA Process is solving (Usecase)
-==Insert Text Here==
+This is just a RPA process example and doesnt solve any issues
 
 ### Process Flow Overview
-==Insert Text Here==
+this is an example
 
 --------------------------------------------------------------------------------
 ## PRE-REQUISITE INFORMATION REQUIRED
 ### General Notes
-==Insert Text Here==
+This is an Example RPA Process design and configured using the Blueprism RPA Platfom, this process comes with no warrently or support
 
 ### Installation Guide
-==Insert Text Here==
+follow the Blueprism RPA 101 guides at https://www.blueprism.com/rpa-guide/
 
 --------------------------------------------------------------------------------
 ## CREDITS
 
 | Name | Contact Information |
 | ----------- | ----------- |
-| |  |
-|  |  |
+| Joe Bloggs | A NHS Trust |
+| Jane Brown | A NHS Trust |
 --------------------------------------------------------------------------------
 ## EXTENDED SUPPORT INFOMATION
 
-==Insert Text Here==
+No Support or Warrenty 
