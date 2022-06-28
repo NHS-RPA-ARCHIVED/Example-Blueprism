@@ -6,14 +6,14 @@
 Example Process
 
 ### RPA BOT Vendor
-Blueprism
+Blue Prism
 --------------------------------------------------------------------------------
 ## RPA PROCESS INFORMATION
 ### Systems RPA is Interacting with
 Local test services
 
-### Problem RPA Process is solving (Usecase)
-This is just a RPA process example and doesnt solve any issues
+### Problem RPA Process is solving (use case)
+This is just a RPA process example and doesn't solve any issues
 
 ### Process Flow Overview
 this is an example
@@ -21,10 +21,10 @@ this is an example
 --------------------------------------------------------------------------------
 ## PRE-REQUISITE INFORMATION REQUIRED
 ### General Notes
-This is an Example RPA Process design and configured using the Blueprism RPA Platfom, this process comes with no warrently or support
+This is an Example RPA Process design and configured using the Blue Prism RPA platform, this process comes with no warranty or support
 
 ### Installation Guide
-follow the Blueprism RPA 101 guides at https://www.blueprism.com/rpa-guide/
+follow the Blue Prism RPA 101 guides at https://www.blueprism.com/rpa-guide/
 
 --------------------------------------------------------------------------------
 ## CREDITS
