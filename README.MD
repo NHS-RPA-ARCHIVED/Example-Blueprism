@@ -36,4 +36,4 @@ follow the Blue Prism RPA 101 guides at https://www.blueprism.com/rpa-guide/
 --------------------------------------------------------------------------------
 ## EXTENDED SUPPORT INFOMATION
 
-No Support or Warrenty 
+No Support or warranty 
