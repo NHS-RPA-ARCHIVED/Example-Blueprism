@@ -34,6 +34,6 @@ follow the Blue Prism RPA 101 guides at https://www.blueprism.com/rpa-guide/
 | Joe Bloggs | A NHS Trust |
 | Jane Brown | A NHS Trust |
 --------------------------------------------------------------------------------
-## EXTENDED SUPPORT INFOMATION
+## EXTENDED SUPPORT INFORMATION
 
 No Support or warranty 
