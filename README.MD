@@ -13,8 +13,6 @@
 ### RPA Process Name
 Example Process
 
-### RPA BOT Vendor
-Blue Prism
 --------------------------------------------------------------------------------
 ## RPA PROCESS INFORMATION
 ### Systems RPA is Interacting with
